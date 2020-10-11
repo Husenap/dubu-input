@@ -1,6 +1,18 @@
-# cmake-project-template
+![Windows](https://github.com/Husenap/dubu-input/workflows/Windows/badge.svg)
+![Ubuntu](https://github.com/Husenap/dubu-input/workflows/Ubuntu/badge.svg)
 
-Uses CMake for generating a basic project template.
+```
+   _     _           _             _   
+ _| |_ _| |_ _ _ ___|_|___ ___ _ _| |_ 
+| . | | | . | | |___| |   | . | | |  _|
+|___|___|___|___|   |_|_|_|  _|___|_|  
+                          |_|          
+```
 
-![Windows](https://github.com/Husenap/cmake-project-template/workflows/Windows/badge.svg)
-![Ubuntu](https://github.com/Husenap/cmake-project-template/workflows/Ubuntu/badge.svg)
+C++ input library depending on [dubu-window](https://github.com/Husenap/dubu-window).
+
+# Features
+
+
+
+# Examples
